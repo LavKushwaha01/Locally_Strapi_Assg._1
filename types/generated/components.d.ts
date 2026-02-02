@@ -19,7 +19,7 @@ export interface SharedQuote extends Struct.ComponentSchema {
   };
   attributes: {
     body: Schema.Attribute.Text;
-    title: Schema.Attribute.String;
+    devops: Schema.Attribute.String;
   };
 }
 
