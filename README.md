@@ -1,5 +1,7 @@
 # Strapi Local Setup – Assignment
 
+### Loom video: https://www.loom.com/share/0228359814c34d7f83c2d7779e8d34b7
+
 ## Overview
 This repository contains a **locally running Strapi project** created as part of an assignment to understand Strapi’s setup, admin panel, and content management workflow.
 
